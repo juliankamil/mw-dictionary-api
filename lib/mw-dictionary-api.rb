@@ -4,7 +4,6 @@
 
 require 'rest-client'
 require 'json'
-require 'colorize'
 
 module MwDictionary
     API_SERVICES = {
